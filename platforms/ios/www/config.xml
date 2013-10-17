@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.blu27.aki" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>aki</name>
+    <description>
+        aki sends a text with a URL of your location.
+    </description>
+    <author email="info@blu27.com" href="http://blu27.com">
+        blu27 Team
+    </author>
+    <access origin="*" />
+    <preference name="fullscreen" value="true" />
+    <preference name="webviewbounce" value="False" />
+</widget>
